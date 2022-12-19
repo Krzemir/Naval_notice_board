@@ -1,0 +1,22 @@
+.header {
+  width: 100vw;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-bottom: -14vw;
+  z-index: -1;
+
+    .title {
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    font-style: italic;
+    color: rgb(40, 79, 138);
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+  }
+}
+
