@@ -11,7 +11,7 @@ const helmet = require('helmet');
 
 //******** express server start ***********/
 const app = express();
-app.listen('8000', () => {
+app.listen(process.env.PORT ||'8000', () => {
   console.log('[server] Server is running on port: 8000');
 });
 
@@ -48,10 +48,11 @@ app.use(express.static(path.join(__dirname, '/client/build')));
 app.use(express.static(path.join(__dirname, '/public')));
 
 //******** serve React on other links ***********/ //TODO: not necessary, better way?
-// app.get('*', (req, res) => {
-//   res.sendFile(path.join(__dirname, '/client/build/index.html'));
-// });
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '/client/build/index.html'));
+});
 
 app.use((req, res) => {
   res.status(404).send('404 not found...');
 })
+
