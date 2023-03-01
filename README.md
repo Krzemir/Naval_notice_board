@@ -21,4 +21,9 @@ screenshots:
 
 <img src="https://i.postimg.cc/P53pjTYr/Screenshot-at-Feb-19-18-18-29.png" style="width: 70%"/>
 
-
+--------------------------------------------------
+## Installation
+$ yarn install
+## Running the app
+### development
+$ yarn start
