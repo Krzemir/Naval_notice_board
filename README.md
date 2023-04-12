@@ -15,11 +15,11 @@ Listing site with options:
 
 screenshots:
 
-<img src="https://i.postimg.cc/j5LfBBBJ/Screenshot-at-Feb-19-18-11-48.png" style="width: 70%" raw=true/>
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaU0d4HAdCY8esk3yGGMzpDqerezm-dtAz_Uv4oRxBJGZPmPEZLCxfYmVu5gu__fb8SlztmvH0Dbu-qIwU-hZv7ROs4mnUqAIBi2ZMWxq-iOImKsNKvVBSDJ6AYyAG_ea0kxP4CbiIWEoIX4GYRDp-g=w1359-h892-s-no?authuser=1" style="width: 70%" raw=true/>
 
 -------------------------------------------------
 
-<img src="https://i.postimg.cc/P53pjTYr/Screenshot-at-Feb-19-18-18-29.png" style="width: 70%" raw=true/>
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaWq6sa9r0Qw6boRBVNavVcH3IOWXSPJ5sZAtbC7uDHEbf87CUmEobOTxI8Lg5i_ZroFS9rZPqJN3t6uooVxOSSsNIBdFhD7sjzG-5LSMlDCp-CaRxGKofZmBOoVyHoIZ6lvPQByrOvbH-FkARu86Yo=w1371-h640-s-no?authuser=1" style="width: 70%" raw=true/>
 
 --------------------------------------------------
 ## Installation
